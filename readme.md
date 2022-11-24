@@ -7,6 +7,7 @@ This is a Draft Deliverable of the Technology Architecture Task Force of the Tec
 - [Introduction to ToIP V2.0](https://www.trustoverip.org/wp-content/uploads/Introduction-to-ToIP-V2.0-2021-11-17.pdf)
 - [Design Principles for the ToIP Stack V1.0](https://www.trustoverip.org/wp-content/uploads/Design-Principles-for-the-ToIP-Stack-V1.0-2022-01-17.pdf)
 
+
 ## Contributing
 
 To contribute, please first visit the Task Force's [wiki](https://wiki.trustoverip.org/display/HOME/TSWG+Technology+Architecture+Task+Force).
